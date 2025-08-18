@@ -17,7 +17,7 @@ As **regras de classificação** são:
 * **ALTO**: 300 ≤ consumo < 700 → prioridade 2 → “Contato em até 48h + proposta personalizada”
 * **VIP**: consumo ≥ 700 → prioridade 1 → “Contato em até 24h + consultoria especializada”
 
-Abaixo uma sugestao de organizacao:
+Abaixo uma sugestao de organizacao, caso estejam com dúvidas:
 
 ![Sugestão de organização](./sugestao-organizacao.png)
 
